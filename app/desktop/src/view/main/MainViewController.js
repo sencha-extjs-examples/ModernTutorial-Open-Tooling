@@ -54,14 +54,4 @@ Ext.define('ModernTutorial.view.main.MainViewController', {
 			button.setIconCls('x-fa fa-arrow-right');
 		}
 	}
-
-//	onActionsViewLogoutTap: function( ) {
-//		var vm = this.getViewModel();
-//		vm.set('firstname', '');
-//		vm.set('lastname', '');
-//
-//		Session.logout(this.getView());
-//		this.redirectTo(AppCamp.getApplication().getDefaultToken().toString(), true);
-//	}
-
 });

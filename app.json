@@ -1,7 +1,7 @@
 {
   "name": "ModernTutorial",
   "namespace": "ModernTutorial",
-  "version": "1.0.0.0",
+  "version": "0.0.1",
   "framework": "ext",
   "template": "universalmodern",
   "indexHtmlPath": "index.html",
@@ -69,8 +69,10 @@
   },
   
   "fashion": {
-		"missingParameters": "error",
-    "inliner": {"enable": false}
+    "missingParameters": "error",
+    "inliner": {
+      "enable": false
+    }
   },
 
   "js": [
