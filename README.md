@@ -7,8 +7,6 @@ a real world environment.
 ### Prerequisite
 - Login to Sencha [NPM Repository](http://docs.sencha.com/extjs/6.7.0/guides/getting_started/open_tooling.html#getting_started-_-open_tooling_-_step_2__login_to_the_npm_repository)
 
-`npm login --registry=https://npm.sencha.com --scope=@sencha`
-
 ## Download the Sample Application
 
 You can download from Github by clicking the green "Clone or Download" button. Then
@@ -24,8 +22,3 @@ Command Line Interface (CLI). Then, issue the following command:
 Next, run the following command to start the application:
 
     npm start
-
-You can now visit the resulting address displayed in your console.  It will
-usually be found here:
-
-    http://localhost:1841/
